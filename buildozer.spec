@@ -5,7 +5,7 @@ package.domain = org.zalimkral
 source.include_exts = py,png,jpg,kv,atlas
 source.dir = .
 version = 0.1
-requirements = python3,pygame,sdl2,sdl2_image,sdl2_mixer,sdl2_ttf
+requirements = python3==3.11,pygame,sdl2,sdl2_image,sdl2_mixer,sdl2_ttf
 orientation = portrait
 fullscreen = 0
 android.permissions = INTERNET
